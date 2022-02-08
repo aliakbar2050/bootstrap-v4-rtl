@@ -1,15 +1,21 @@
 {
-  "name": "bootstrap-v4-rtl",
+  "name": "bootstrapv4rtlpersianpackage",
   "version": "1.0.0",
-  "description": "",
+  "description": "bootstrap v4 right to left",
   "main": "index.js",
-  "directories": {
-    "example": "examples"
-  },
+  "keywords": [
+    "bootstrap4",
+    "right-to-left",
+    "bootstrap-rtl",
+    "bootstrap"
+  ],
   "scripts": {
     "build": "minify --output bootstrap-rtl.min.css bootstrap-rtl.css"
   },
   "devDependencies": {
     "minifier": "^0.8.1"
+  },
+  "dependencies": {
+    "composer": "^4.1.0"
   }
 }
