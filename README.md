@@ -7,6 +7,11 @@ rtl bootstrap
 </p>
 
 <h3 align="center">Bootstrap</h3>
+<p align="center">
+<a href="#">
+<img src="https://img.shields.io/bower/l/bootstrap?style=flat-square">
+</a>
+</p>
 
 <p align="center">
   Sleek, intuitive, and powerful front-end framework for faster and easier web development.
